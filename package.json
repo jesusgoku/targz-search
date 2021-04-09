@@ -1,0 +1,14 @@
+{
+  "name": "targz-search",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Jesús Urrutia <jesus.urrutia@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "targz-search": "src/index.js"
+  },
+  "dependencies": {
+    "commander": "^7.2.0",
+    "tar-stream": "^2.2.0"
+  }
+}
